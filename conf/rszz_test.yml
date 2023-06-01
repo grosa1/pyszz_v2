@@ -1,0 +1,27 @@
+### szz implementation
+szz_name: r
+
+### obtain the diff only for the specified file extensions
+# file_ext_to_parse:
+#  - c
+#  - cpp
+#  - cs
+#  - h
+#  - java
+#  - js
+#  - py
+
+### filter commits using issue_date field
+issue_date_filter: true
+
+### ignore during blame all the commits specified in revs file
+# ignore_revs_file_path: /path/to/revs/file
+
+### ignore commits during blame with a change size higher than the specified value
+max_change_size: 20
+
+### set -C param for blame to detect line moves/copies across:
+## SAME_COMMIT = 1
+## PARENT_COMMIT = 2
+## ANY_COMMIT = 3
+detect_move_from_other_files: 1

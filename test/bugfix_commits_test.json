@@ -1,0 +1,22 @@
+[
+  {
+    "fix_commit_hash": "72b4bbce75674b8a2b794ece2aa7455783a52072",
+    "repo_name": "grosa1/szztest_whitespace2"
+  },
+  {
+    "fix_commit_hash": "14e89f691b870be09ea9fbe57ece48b40ea22af2",
+    "repo_name": "grosa1/szztest_merge"
+  },
+  {
+    "fix_commit_hash": "c8c3cc3012ac4ee762ce2dbd64c24a79124e8e45",
+    "repo_name": "grosa1/szztest_rename"
+  },
+  {
+    "fix_commit_hash": "b6e19f7e5c2616057a52ddec68ce6463cb2d0744",
+    "repo_name": "grosa1/szztest_change_size"
+  },
+  {
+    "fix_commit_hash": "30ae3f5421bcda1bc4ef2f1b18db6a131dcbbfd3",
+    "repo_name": "grosa1/szztest_mod_change"
+  }
+]

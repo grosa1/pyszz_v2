@@ -1,0 +1,85 @@
+[
+  {
+    "id": 193,
+    "repo_name": "wanadev/PhotonUI",
+    "fix_commit_hash": "ccf072479fbc86a8f5f75ff3239b5e92152d671d",
+    "bug_commit_hash": [
+      "39f60ba34cb55e8762d89b0556dd51da8cccf8a4"
+    ],
+    "earliest_issue_date": "2016-04-13T13:21:37",
+    "issue_urls": [
+      "https://github.com/wanadev/PhotonUI/issues/58",
+      "https://github.com/wanadev/PhotonUI/issues/21",
+      "https://github.com/wanadev/PhotonUI/issues/21https://github.com/wanadev/PhotonUI/issues/58"
+    ],
+    "language": [
+      "js"
+    ]
+  },
+  {
+    "id": 206,
+    "repo_name": "pantsbuild/pex",
+    "fix_commit_hash": "4d9afa70a099365b3f5e13570f7d930d37a5847d",
+    "bug_commit_hash": [
+      "fe895b2e24a1ed0bc9574cdd2cf83164983a9b61"
+    ],
+    "earliest_issue_date": "2015-04-16T03:48:57",
+    "issue_urls": [
+      "https://github.com/pantsbuild/pex/issues/82"
+    ],
+    "language": [
+      "py"
+    ]
+  },
+  {
+    "id": 300,
+    "repo_name": "sidben/AtelierCanvas",
+    "fix_commit_hash": "c7bf18bad64a001c5a1b8afff73373d041704458",
+    "bug_commit_hash": [
+      "183dec5e13570bbe9adc4ea03cf975bc4700273b"
+    ],
+    "earliest_issue_date": "2015-09-23T03:02:51",
+    "issue_urls": [
+      "https://github.com/sidben/AtelierCanvas/issues/8"
+    ],
+    "language": [
+      "java"
+    ]
+  },
+  {
+    "id": 327,
+    "repo_name": "amirmikhak/3D-GIF",
+    "fix_commit_hash": "645496dd3c5c89faee9dab9f44eb2dab1dffa3b9",
+    "bug_commit_hash": [
+      "39cd2adcbf8ddef225f1db530297b18e09b2ed6d"
+    ],
+    "best_scenario_issue_date": "2015-04-23T07:41:52",
+    "language": [
+      "js"
+    ]
+  },
+  {
+    "id": 4,
+    "repo_name": "ahobson/ruby-pcap",
+    "fix_commit_hash": "0ad41d0684c2ec4c2a6b604f7aafbaf9f0459dcc",
+    "bug_commit_hash": [
+      "272f03ff3b5bf79829f80c2febd004904d64006e"
+    ],
+    "best_scenario_issue_date": "2011-05-31T21:05:04",
+    "language": [
+      "rb"
+    ]
+  },
+  {
+    "id": 350,
+    "repo_name": "phillipberndt/pqiv",
+    "fix_commit_hash": "8f984cc6300cb9898db96c70e1a5e6afb7e13034",
+    "bug_commit_hash": [
+      "ed58a472f1d402ecefbfe2bc07dc6780fc44a824"
+    ],
+    "best_scenario_issue_date": "2013-06-14T14:07:26",
+    "language": [
+      "c"
+    ]
+  }
+]

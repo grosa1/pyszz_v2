@@ -1,0 +1,11 @@
+GitPython==3.1.7
+PyDriller==1.15.2
+PyYAML==5.3.1
+options==1.4.10
+testresources==2.0.1
+dateparser==0.7.6
+networkx==2.6.3
+beautifulsoup4==4.10.0
+lxml==4.6.4
+packaging==21.3
+regex==2022.1.18

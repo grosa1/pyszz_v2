@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1235,
+        "repo_name": "krmpotic/snake",
+        "fix_commit_hash": "ca119496290f4ba8594c1e298a77336825c71e77",
+        "bug_commit_hash": [
+            "315a64b1bd627246b5a2c899ffdd47107d2b7fa6"
+        ],
+        "best_scenario_issue_date": "2019-12-17T05:43:45",
+        "language": [
+            "c"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 70,
+        "repo_name": "lanoxx/tilda",
+        "fix_commit_hash": "1c01631ef0660fe3ba79e286336ac514de8a6398",
+        "bug_commit_hash": [
+            "c8f7fc4f5b43279066db34ecd8149f59e0a805df"
+        ],
+        "oracle_bug_commit_hash": [
+            "0600461d1ab3fb016b2e9bc5e5d55f418a729da6",
+            "6079e49e6876c4c6f6409262f4d5418ef9daac82",
+            "c8f7fc4f5b43279066db34ecd8149f59e0a805df",
+            "35252b2417f68fc4845622d12ee3df6e12a5e1a2",
+            "c049598aa21953b5b88a4291665ff61267dd690b"
+        ],
+        "best_scenario_issue_date": "2020-06-11T16:35:43+02:00",
+        "issue_urls": [],
+        "language": [
+            "c"
+        ]
+    }
+]

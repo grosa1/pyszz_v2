@@ -1,0 +1,18 @@
+### szz implementation
+szz_name: b
+
+### obtain the diff only for the specified file extensions
+# file_ext_to_parse:
+#  - c
+#  - cpp
+#  - cs
+#  - h
+#  - java
+#  - js
+#  - py
+
+### filter commits using issue_date field
+issue_date_filter: true
+
+### ignore during blame all the commits specified in revs file
+# ignore_revs_file_path: /path/to/revs/file

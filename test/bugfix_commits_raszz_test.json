@@ -1,0 +1,26 @@
+[
+  {
+    "id":1656,
+    "repo_name":"piotr-rusin/yule",
+    "fix_commit_hash":"24ae6b95be0836ecfdaff8f73c93f038b7db9569",
+    "bug_commit_hash":[
+      "179e7cfa7c2f0ecb06cf918e0151993e6f8d6a22"
+    ],
+    "best_scenario_issue_date":"2017-01-12T18:45:36",
+    "language":[
+      "java"
+    ]
+  },
+  {
+    "id":10,
+    "repo_name":"SimpleServer/SimpleServer",
+    "fix_commit_hash":"8b16295318cd85c55b04e962479de1c6532a6759",
+    "bug_commit_hash":[
+      "cfbce4351327f0f1a52ac2161dcbf49a0b31dad4"
+    ],
+    "best_scenario_issue_date":"2011-06-16T12:21:29",
+    "language":[
+      "java"
+    ]
+  }
+]
