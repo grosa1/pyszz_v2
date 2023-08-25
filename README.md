@@ -7,6 +7,7 @@ To run PySZZ you need:
 - Python 3
 - srcML (https://www.srcml.org/) (i.e., the `srcml` command should be in the system path)
 - git >= 2.23
+- Tested on Unix-like OSes (Linux/MacOS) 
 
 ## Setup
 Run the following command to install the required python dependencies:
